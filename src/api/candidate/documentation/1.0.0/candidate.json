@@ -42,6 +42,9 @@
                                   "CTL"
                                 ]
                               },
+                              "ctl": {
+                                "type": "boolean"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -644,6 +647,9 @@
                                 "CTL"
                               ]
                             },
+                            "ctl": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -1135,6 +1141,9 @@
                           "CTL"
                         ]
                       },
+                      "ctl": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -1217,6 +1226,9 @@
                                 "Maturidade",
                                 "CTL"
                               ]
+                            },
+                            "ctl": {
+                              "type": "boolean"
                             },
                             "createdAt": {
                               "type": "string",
@@ -1729,6 +1741,9 @@
                                 "CTL"
                               ]
                             },
+                            "ctl": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2230,6 +2245,9 @@
                           "Maturidade",
                           "CTL"
                         ]
+                      },
+                      "ctl": {
+                        "type": "boolean"
                       },
                       "createdAt": {
                         "type": "string",

@@ -33,6 +33,9 @@
         "Maturidade",
         "CTL"
       ]
+    },
+    "ctl": {
+      "type": "boolean"
     }
   }
 }

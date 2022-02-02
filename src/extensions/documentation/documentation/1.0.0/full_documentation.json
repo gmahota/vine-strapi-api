@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-02-02T16:22:17.717Z"
+    "x-generation-date": "2022-02-02T18:39:22.917Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -91,6 +91,9 @@
                                   "Maturidade",
                                   "CTL"
                                 ]
+                              },
+                              "ctl": {
+                                "type": "boolean"
                               },
                               "createdAt": {
                                 "type": "string",
@@ -694,6 +697,9 @@
                                 "CTL"
                               ]
                             },
+                            "ctl": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -1185,6 +1191,9 @@
                           "CTL"
                         ]
                       },
+                      "ctl": {
+                        "type": "boolean"
+                      },
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -1267,6 +1276,9 @@
                                 "Maturidade",
                                 "CTL"
                               ]
+                            },
+                            "ctl": {
+                              "type": "boolean"
                             },
                             "createdAt": {
                               "type": "string",
@@ -1779,6 +1791,9 @@
                                 "CTL"
                               ]
                             },
+                            "ctl": {
+                              "type": "boolean"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2280,6 +2295,9 @@
                           "Maturidade",
                           "CTL"
                         ]
+                      },
+                      "ctl": {
+                        "type": "boolean"
                       },
                       "createdAt": {
                         "type": "string",
